@@ -13,6 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 
+
 📝 AI Text Summarizer
 
 An interactive **AI-based Text Summarizer** built using **Python** and **Streamlit**.  
@@ -40,11 +41,17 @@ It summarizes long text into concise, meaningful summaries using **TF-IDF** and 
 ---
 
 📂 Project Structure
+
 AI-Text-Summarizer/
+
 │
+
 ├── app.py
+
 ├── summarizer.py
+
 ├── requirements.txt
+
 └── README.md
 
 ---

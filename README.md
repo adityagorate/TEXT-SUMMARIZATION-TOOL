@@ -72,6 +72,11 @@ python -m streamlit run app.py
 
 ---
 
+#Output
+<img width="1330" height="560" alt="Image" src="https://github.com/user-attachments/assets/e340ace5-7ee4-44d8-8de9-cb5278082e5f" />
+
+---
+
 👨‍💻 Author
 Aditya 
 AI / ML Engineering Student

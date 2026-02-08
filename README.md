@@ -59,7 +59,7 @@ AI-Text-Summarizer/
 ⚙️ Installation & Setup
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/text-summarizer.git  
+git clone https://github.com/adityagorate/TEXT-SUMMARIZATION-TOOL  
 cd text-summarizer
 
 2️⃣ Create Virtual Environment (Optional)
